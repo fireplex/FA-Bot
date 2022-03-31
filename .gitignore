@@ -1,0 +1,13 @@
+.vercel
+**/node_modules
+**/commandsOLD
+**/data
+config.json
+**/pk.json
+package-lock.json
+package.json
+cookies.json
+commands/scrape.js
+**/.vs
+cookies.json
+commands/scrape.js
